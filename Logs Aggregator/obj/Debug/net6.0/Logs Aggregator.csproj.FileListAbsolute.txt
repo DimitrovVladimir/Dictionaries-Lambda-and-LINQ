@@ -1,0 +1,15 @@
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Logs Aggregator\bin\Debug\net6.0\Logs Aggregator.exe
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Logs Aggregator\bin\Debug\net6.0\Logs Aggregator.deps.json
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Logs Aggregator\bin\Debug\net6.0\Logs Aggregator.runtimeconfig.json
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Logs Aggregator\bin\Debug\net6.0\Logs Aggregator.dll
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Logs Aggregator\bin\Debug\net6.0\Logs Aggregator.pdb
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Logs Aggregator\obj\Debug\net6.0\Logs Aggregator.csproj.AssemblyReference.cache
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Logs Aggregator\obj\Debug\net6.0\Logs Aggregator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Logs Aggregator\obj\Debug\net6.0\Logs Aggregator.AssemblyInfoInputs.cache
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Logs Aggregator\obj\Debug\net6.0\Logs Aggregator.AssemblyInfo.cs
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Logs Aggregator\obj\Debug\net6.0\Logs Aggregator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Logs Aggregator\obj\Debug\net6.0\Logs Aggregator.dll
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Logs Aggregator\obj\Debug\net6.0\refint\Logs Aggregator.dll
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Logs Aggregator\obj\Debug\net6.0\Logs Aggregator.pdb
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Logs Aggregator\obj\Debug\net6.0\Logs Aggregator.genruntimeconfig.cache
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Logs Aggregator\obj\Debug\net6.0\ref\Logs Aggregator.dll

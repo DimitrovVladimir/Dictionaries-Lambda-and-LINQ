@@ -1,0 +1,15 @@
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Hands of Cards\bin\Debug\net6.0\Hands of Cards.exe
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Hands of Cards\bin\Debug\net6.0\Hands of Cards.deps.json
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Hands of Cards\bin\Debug\net6.0\Hands of Cards.runtimeconfig.json
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Hands of Cards\bin\Debug\net6.0\Hands of Cards.dll
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Hands of Cards\bin\Debug\net6.0\Hands of Cards.pdb
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Hands of Cards\obj\Debug\net6.0\Hands of Cards.csproj.AssemblyReference.cache
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Hands of Cards\obj\Debug\net6.0\Hands of Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Hands of Cards\obj\Debug\net6.0\Hands of Cards.AssemblyInfoInputs.cache
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Hands of Cards\obj\Debug\net6.0\Hands of Cards.AssemblyInfo.cs
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Hands of Cards\obj\Debug\net6.0\Hands of Cards.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Hands of Cards\obj\Debug\net6.0\Hands of Cards.dll
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Hands of Cards\obj\Debug\net6.0\refint\Hands of Cards.dll
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Hands of Cards\obj\Debug\net6.0\Hands of Cards.pdb
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Hands of Cards\obj\Debug\net6.0\Hands of Cards.genruntimeconfig.cache
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Hands of Cards\obj\Debug\net6.0\ref\Hands of Cards.dll

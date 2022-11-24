@@ -1,0 +1,15 @@
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Fix Emails\bin\Debug\net6.0\Fix Emails.exe
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Fix Emails\bin\Debug\net6.0\Fix Emails.deps.json
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Fix Emails\bin\Debug\net6.0\Fix Emails.runtimeconfig.json
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Fix Emails\bin\Debug\net6.0\Fix Emails.dll
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Fix Emails\bin\Debug\net6.0\Fix Emails.pdb
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Fix Emails\obj\Debug\net6.0\Fix Emails.csproj.AssemblyReference.cache
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Fix Emails\obj\Debug\net6.0\Fix Emails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Fix Emails\obj\Debug\net6.0\Fix Emails.AssemblyInfoInputs.cache
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Fix Emails\obj\Debug\net6.0\Fix Emails.AssemblyInfo.cs
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Fix Emails\obj\Debug\net6.0\Fix Emails.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Fix Emails\obj\Debug\net6.0\Fix Emails.dll
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Fix Emails\obj\Debug\net6.0\refint\Fix Emails.dll
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Fix Emails\obj\Debug\net6.0\Fix Emails.pdb
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Fix Emails\obj\Debug\net6.0\Fix Emails.genruntimeconfig.cache
+C:\Users\Admin\source\QualityAssurance\Dictionaries\Fix Emails\obj\Debug\net6.0\ref\Fix Emails.dll
