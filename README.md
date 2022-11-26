@@ -2,7 +2,7 @@
 # Dictionaries
 
 
-With solving this problems, I practice working with Arrays.
+With solving this problems, I practice working with Dictionaries.
 
 ## Problem: A Miner Task
 You are given a sequence of strings, each on a new line. Every odd line on the console is representing a resource (e.g. Gold, Silver, Copper, and so on), and every even – quantity. Your task is to collect the resources and print them each on a new line. 
